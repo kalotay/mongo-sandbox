@@ -19,5 +19,8 @@
   "devDependencies": {
     "mocha": "~1.9.0",
     "should": "~1.2.2"
+  },
+  "dependencies": {
+    "mongoose": "~3.6.8"
   }
 }
