@@ -1,0 +1,19 @@
+{
+  "name": "mongo-sandbox",
+  "version": "0.0.0",
+  "description": "playing with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kalotay/mongo-sandbox.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Daniel Kalotay",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
